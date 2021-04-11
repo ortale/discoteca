@@ -1,6 +1,6 @@
 # discoteca
 
-## Improvments to work on
+## Improvements to work on
 - Create class to locate errors messages on it
 - Use 3rd party library to style messages
 - Use styles xml file to centralise all the style patter in the ap
